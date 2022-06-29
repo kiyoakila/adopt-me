@@ -1,8 +1,8 @@
 {
   "name": "react-project-practice",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Adopt pets via adopt-me",
+  "main": "src/App.js",
   "scripts": {
     "dev": "parcel src/index.html",
     "heroku-postbuild": "parcel build src/index.html",
